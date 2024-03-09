@@ -116,7 +116,7 @@ main #search {
     }
 
     main #search {
-        font-size: 20px;
+        font-size: 15px;
         margin: 0px 18px 24px 0px;
         padding: 8px 17px;
         border-radius: 0.5rem;
@@ -127,8 +127,8 @@ main #search {
     }
     main input {
         height: 2rem;
-        padding: 1rem;
-        border-radius: 1rem;
+        padding: 2px;
+        border-radius: 7px;
         border: none;
         width: 70%;
     }
@@ -138,12 +138,12 @@ main #search {
        
     }
     .emojibox {
-        width: 109px;
-        height: 80px;
+        width: 74px;
+        height: 55px;
         display: flex;
         overflow-wrap: break-word;
         border-radius: 15px;
-        background: linear-gradient(145deg, #605757, #726868);
+        background-color: rgb(255, 133, 133);
         /* box-shadow: 23px 23px 47px #514a4a, -23px -23px 47px #857878; */
     }
 
